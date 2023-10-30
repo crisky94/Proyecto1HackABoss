@@ -1,3 +1,4 @@
+
 fetch("./preguntas.json")
   .then((response) => {
     return response.json();
