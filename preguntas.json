@@ -1,0 +1,397 @@
+[
+  {
+    "pregunta": "What breed of dog was Marley in the film \"Marley & Me\" (2008)?",
+    "opciones": [
+      "Labrador Retriever",
+      "Dalmatian",
+      "Golden Retriever",
+      "Shiba Inu"
+    ],
+    "respuesta": "Labrador Retriever"
+  },
+  {
+    "pregunta": "Which of the following is not the name of a \"Bond Girl\"? ",
+    "opciones": [
+      "Pam Bouvier",
+      "Vanessa Kensington",
+      "Wai Lin",
+      "Mary Goodnight"
+    ],
+    "respuesta": "Vanessa Kensington"
+  },
+  {
+    "pregunta": "Which movie released in 2016 features Superman and Batman fighting?",
+    "opciones": [
+      "Batman v Superman: Black of Knight",
+      "Batman v Superman: Knightfall",
+      "Batman v Superman: Superapocalypse",
+      "Batman v Superman: Dawn of Justice"
+    ],
+    "respuesta": "Batman v Superman: Dawn of Justice"
+  },
+  {
+    "pregunta": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+    "opciones": [
+      "Ted",
+      "Spy Kids",
+      "Harry Potter",
+      "Pirates of the Caribbean "
+    ],
+    "respuesta": "Harry Potter"
+  },
+  {
+    "pregunta": "Who starred as Bruce Wayne and Batman in Tim Burton's 1989 movie \"Batman\"?",
+    "opciones": ["Michael Keaton", "Val Kilmer", "Adam West", "George Clooney"],
+    "respuesta": "Michael Keaton"
+  },
+  {
+    "pregunta": "What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?",
+    "opciones": ["Billy", "Jones", "Wilson", "Friday"],
+    "respuesta": "Wilson"
+  },
+  {
+    "pregunta": "Who directed \"E.T. the Extra-Terrestrial\" (1982)?",
+    "opciones": [
+      "Steven Spielberg",
+      "Stanley Kubrick",
+      "James Cameron",
+      "Tim Burton"
+    ],
+    "respuesta": "Steven Spielberg"
+  },
+  {
+    "pregunta": "Which animated movie was first to feature a celebrity as a voice actor?",
+    "opciones": [
+      "Toy Story",
+      "James and the Giant Peach",
+      "Aladdin",
+      "The Hunchback of Notre Dame"
+    ],
+    "respuesta": "Aladdin"
+  },
+  {
+    "pregunta": "When was the movie 'Con Air' released?",
+    "opciones": ["1997", "1985", "1990", "1999"],
+    "respuesta": "1997"
+  },
+  {
+    "pregunta": "Who wrote and directed the 1986 film 'Platoon'?",
+    "opciones": [
+      "Francis Ford Coppola",
+      "Oliver Stone",
+      "Stanley Kubrick",
+      "Michael Cimino"
+    ],
+    "respuesta": "Oliver Stone"
+  },
+  {
+    "pregunta": "Who played Deputy Marshal Samuel Gerard in the 1993 film \"The Fugitive\"?",
+    "opciones": [
+      "Harrison Ford",
+      "Tommy Lee Jones",
+      "Martin Landau",
+      "Harvey Keitel"
+    ],
+    "respuesta": "Tommy Lee Jones"
+  },
+  {
+    "pregunta": "Who played the female lead in the 1933 film \"King Kong\"?",
+    "opciones": ["Fay Wray", "Mae West", "Jean Harlow", "Vivien Leigh"],
+    "respuesta": "Fay Wray"
+  },
+  {
+    "pregunta": "Which actress danced the twist with John Travolta in 'Pulp Fiction'?",
+    "opciones": ["Kathy Griffin", "Pam Grier", "Bridget Fonda", "Uma Thurman"],
+    "respuesta": "Uma Thurman"
+  },
+  {
+    "pregunta": "Who starred in the film 1973 movie \"Enter The Dragon\"?",
+    "opciones": [" Yun-Fat Chow", "Jackie Chan", "Jet Li", "Bruce Lee"],
+    "respuesta": "Bruce Lee"
+  },
+  {
+    "pregunta": "Who directed the movies \"Pulp Fiction\", \"Reservoir Dogs\" and \"Django Unchained\"?",
+    "opciones": [
+      "Quentin Tarantino",
+      "Steven Spielberg",
+      "James Cameron",
+      "Martin Scorcese"
+    ],
+    "respuesta": "Quentin Tarantino"
+  },
+  {
+    "pregunta": "The Queen song `A Kind Of Magic` is featured in which 1986 film?",
+    "opciones": ["Flash Gordon", "Labyrinth", "Howard the Duck", "Highlander"],
+    "respuesta": "Highlander"
+  },
+  {
+    "pregunta": "What was Dorothy's surname in 'The Wizard Of Oz'?",
+    "opciones": ["Parker", "Day", "Perkins", "Gale"],
+    "respuesta": "Gale"
+  },
+  {
+    "pregunta": "This movie contains the quote, \"I feel the need ... the need for speed!\"",
+    "opciones": [
+      "Top Gun",
+      "Days of Thunder",
+      "The Color of Money",
+      "Cocktail"
+    ],
+    "respuesta": "Top Gun"
+  },
+  {
+    "pregunta": "This movie contains the quote, \"Nobody puts Baby in a corner.\"",
+    "opciones": [
+      "Pretty in Pink",
+      "Ferris Bueller's Day Off",
+      "Dirty Dancing",
+      "Three Men and a Baby"
+    ],
+    "respuesta": "Dirty Dancing"
+  },
+  {
+    "pregunta": "What is the orange and white bot's name in \"Star Wars: The Force Awakens\"?",
+    "opciones": ["AA-A", "BB-3", "BB-8", "R2-D2"],
+    "respuesta": "BB-8"
+  },
+  {
+    "pregunta": "What was the first James Bond film?",
+    "opciones": [
+      "Goldfinger",
+      "Dr. No",
+      "From Russia With Love",
+      "Thunderball"
+    ],
+    "respuesta": "Dr. No"
+  },
+  {
+    "pregunta": "Which of these movies did Jeff Bridges not star in?",
+    "opciones": ["The Giver", "Tron: Legacy", "True Grit", "The Hateful Eight"],
+    "respuesta": "The Hateful Eight"
+  },
+  {
+    "pregunta": "Which movie includes a giant bunny-like spirit who has magic powers including growing trees?",
+    "opciones": [
+      "Hop",
+      "My Neighbor Totoro",
+      "Alice in Wonderland",
+      "Rise of the Guardians"
+    ],
+    "respuesta": "My Neighbor Totoro"
+  },
+  {
+    "pregunta": "Who plays Alice in the Resident Evil movies?",
+    "opciones": [
+      "Madison Derpe",
+      "Kim Demp",
+      "Milla Jovovich",
+      "Milla Johnson"
+    ],
+    "respuesta": "Milla Jovovich"
+  },
+  {
+    "pregunta": "What is the oldest Disney film?",
+    "opciones": [
+      "Dumbo",
+      "Snow White and the Seven Dwarfs",
+      "Pinocchio",
+      "Fantasia"
+    ],
+    "respuesta": "Snow White and the Seven Dwarfs"
+  },
+  {
+    "pregunta": "Who is the main protagonist in, the 1985 film, Back to the Future?",
+    "opciones": [
+      "Marty McFly",
+      "George McFly",
+      "Emmett \"Doc\" Brown",
+      "Biff Tannen"
+    ],
+    "respuesta": "Marty McFly"
+  },
+  {
+    "pregunta": "In the movie \"Cast Away\" the main protagonist's best friend while on the island is named",
+    "opciones": ["Willy", "Wilson", "Carson", "Jackson"],
+    "respuesta": "Wilson"
+  },
+  {
+    "pregunta": "In \"Jurassic World\", what is the name of the dinosaur that is a genetic hybrid?",
+    "opciones": [
+      "Mosasaurus",
+      "Pteranodon",
+      "Indominus Rex",
+      "Tyrannosaurus Rex "
+    ],
+    "respuesta": "Indominus Rex"
+  },
+  {
+    "pregunta": "Which actor plays Obi-Wan Kenobi in Star Wars Episodes I-lll?",
+    "opciones": [
+      "Alec Guinness",
+      "Ewan McGregor",
+      "Liam Neeson",
+      "Hayden Christensen"
+    ],
+    "respuesta": "Ewan McGregor"
+  },
+  {
+    "pregunta": "In the movie \"Spaceballs\", what are the Spaceballs attempting to steal from Planet Druidia?",
+    "opciones": ["The Schwartz", "Air", "Meatballs", "Princess Lonestar"],
+    "respuesta": "Air"
+  },
+  {
+    "pregunta": "In the movie Gremlins, after what time of day should you not feed Mogwai?",
+    "opciones": ["Midnight", "Morning", "Evening", "Afternoon"],
+    "respuesta": "Midnight"
+  },
+  {
+    "pregunta": "When does \"Rogue One: A Star Wars Story\" take place chronologically in the series?",
+    "opciones": [
+      "Before Episode 1",
+      "Between Episode 4 and 5",
+      "After Episode 6",
+      "Between Episode 3 and 4"
+    ],
+    "respuesta": "Between Episode 3 and 4"
+  },
+  {
+    "pregunta": "In the 2012 film, \"The Lorax\", who is the antagonist?",
+    "opciones": [
+      "Grammy Norma",
+      "The Once-Ler",
+      "Ted Wiggins",
+      "Aloysius O'Hare"
+    ],
+    "respuesta": "Aloysius O'Hare"
+  },
+  {
+    "pregunta": "At the end of the 2001 film \"Rat Race\", whose concert do the contestants crash?",
+    "opciones": ["Sum 41", "Smash Mouth", "Linkin Park", "Bowling for Soup"],
+    "respuesta": "Smash Mouth"
+  },
+  {
+    "pregunta": "Who plays the character of Po in the Kung Fu Panda movies?",
+    "opciones": [
+      "McConahey Ramses",
+      "Jack Black",
+      "Mirana Jonnes",
+      "Jim Petersson"
+    ],
+    "respuesta": "Jack Black"
+  },
+  {
+    "pregunta": "The 2016 Disney animated film 'Moana' is based on which culture?",
+    "opciones": ["Japanese", "Nordic", "Polynesian", "Native American"],
+    "respuesta": "Polynesian"
+  },
+  {
+    "pregunta": "In the 1995 film \"Balto\", who are Steele's accomplices?",
+    "opciones": [
+      "Dusty, Kirby, and Ralph",
+      "Jenna, Sylvie, and Dixie",
+      "Kaltag, Nikki, and Star",
+      "Nuk, Yak, and Sumac"
+    ],
+    "respuesta": "Kaltag, Nikki, and Star"
+  },
+  {
+    "pregunta": "What is the name of the island that \"Jurassic Park\" is built on?",
+    "opciones": ["Isla Pena", "Isla Sorna", "Isla Muerta", "Isla Nublar"],
+    "respuesta": "Isla Nublar"
+  },
+  {
+    "pregunta": "What was Bruce Campbell's iconic one-liner after getting a chainsaw hand in Evil Dead 2?",
+    "opciones": ["Perfect.", "Groovy.", "Gnarly.", "Nice."],
+    "respuesta": "Groovy."
+  },
+  {
+    "pregunta": "For the film \"Raiders of The Lost Ark\", what was Harrison Ford sick with during the filming of the Cairo chase?",
+    "opciones": ["Anemia", "Constipation", "Acid Reflux ", "Dysentery"],
+    "respuesta": "Dysentery"
+  },
+  {
+    "pregunta": "What was the first feature-length computer-animated movie?",
+    "opciones": ["Tron", "101 Dalmatians", "Lion king", "Toy Story"],
+    "respuesta": "Toy Story"
+  },
+  {
+    "pregunta": "In Big Hero 6, what fictional city is the Big Hero 6 from?",
+    "opciones": ["Tokysisco", "Sankyo", "San Fransokyo", "San Tokyo"],
+    "respuesta": "San Fransokyo"
+  },
+  {
+    "pregunta": "Where does the original Friday The 13th movie take place?",
+    "opciones": [
+      "Packanack",
+      "Higgins Haven",
+      "Camp Crystal Lake",
+      "Camp Forest Green"
+    ],
+    "respuesta": "Camp Crystal Lake"
+  },
+  {
+    "pregunta": "In which film does Humphrey Bogart say the famous line, \"Here's looking at you, kid\"?",
+    "opciones": [
+      "The Maltese Falcon",
+      "Citizen Kane",
+      "The Treasure of the Sierra Madre",
+      "Casablanca"
+    ],
+    "respuesta": "Casablanca"
+  },
+  {
+    "pregunta": "What is the name of the fictional retro-mod band starring Austin Powers as the lead vocalist?",
+    "opciones": ["Ming Tea", "Spear Mint", "Mister E", "Cough Fi"],
+    "respuesta": "Ming Tea"
+  },
+  {
+    "pregunta": "Who directed the Kill Bill movies?",
+    "opciones": [
+      "Stanley Kubrick",
+      "Arnold Schwarzenegger",
+      "Quentin Tarantino",
+      "David Lean"
+    ],
+    "respuesta": "Quentin Tarantino"
+  },
+  {
+    "pregunta": "In \"ALF\", what was ALF's real name?",
+    "opciones": [
+      "Gordon Foster",
+      "Gordon von Gam",
+      "Gordon Milipp",
+      "Gordon Shumway"
+    ],
+    "respuesta": "Gordon Shumway"
+  },
+  {
+    "pregunta": "Which of the following actors has only been in a Quentin Tarantino directed film once?",
+    "opciones": [
+      "Christoph Waltz",
+      "John Travolta",
+      "Harvey Keitel",
+      "Samuel L. Jackson"
+    ],
+    "respuesta": "John Travolta"
+  },
+  {
+    "pregunta": "What historical time period was the center of the Assassin’s Creed movie (2016)?",
+    "opciones": [
+      "Victorian England",
+      "Spanish Inquisition",
+      "Colonial America",
+      "French Revolution"
+    ],
+    "respuesta": "Spanish Inquisition"
+  },
+  {
+    "pregunta": "In the movie \"V for Vendetta,\" what is the date that masked vigilante \"V\" urges people to remember?",
+    "opciones": [
+      "November 4th",
+      "September 5th",
+      "November 6th",
+      "November 5th"
+    ],
+    "respuesta": "November 5th"
+  }
+]
