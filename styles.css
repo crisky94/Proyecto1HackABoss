@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,800;1,200&family=Roboto+Condensed:ital,wght@1,200&display=swap');
+:root {
+  ---fondo-hover:#201515;
+  ---color-h:#001e4d;
+  ---color-letras-botones: #222;
+  ---color-fondo-quiz: #ffffff;
+  --color-fondo-body:#001e4d;
+}
 * {
   margin: 0;
   padding: 0;
@@ -5,23 +13,34 @@
 }
 
 body {
-  background-color: #001e4d;
+  background-image: url(/fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
 }
 
 #app {
-  background-color: #fff;
-  width: 90%;
-  max-width: 600px;
+  background-color: var(---color-fondo-quiz);
+  width: 100%;
+  max-width: 720px;
   margin: 100px auto 0;
   border-radius: 10px;
+  box-shadow: 2px 4px 10px 4px var(---color-letras-botones);
   padding: 30px;
 }
 
 #app h1 {
+  display: flex;
+  justify-content: center;
   font-size: 25px;
-  color: #001e4d;
+  font-family: 'Montserrat', sans-serif;
+  color: var(---color-h);
   font-weight: 600;
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid var(---color-h);
   padding-bottom: 30px;
 }
 
@@ -31,16 +50,21 @@ body {
 
 #quiz h2 {
   font-size: 18px;
-  color: #001e4d;
+  color: var(---color-h);
   font-weight: 600;
+  font-family: 'Montserrat', sans-serif;
 }
 
-.button {
-  background-color: #fff;
-  color: #222;
+.botonRespuesta {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  background-color:var(---color-fondo-quiz);
+  color: var(---color-letras-botones);
+  font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   width: 100%;
-  border: 1px solid #222;
+  border: 1px solid var(---color-letras-botones);
   padding: 10px;
   margin: 10px 0;
   text-align: left;
@@ -48,8 +72,15 @@ body {
   cursor: pointer;
   transition: all 0.3s;
 }
-
-.button:hover {
-  background-color: #222;
-  color: #fff;
+ .botonRespuesta:hover{
+  transform: scale(1.05);
+  background: var(---fondo-hover);
+  color:var(---color-fondo-quiz);
+ }
+#contador-aciertos {
+  display: flex;
+  justify-content: center;
+  color: var(---color-fondo-quiz);
+  font-weight:  500;
+  font-family: 'Montserrat', sans-serif;
 }
