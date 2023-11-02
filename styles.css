@@ -73,14 +73,14 @@ body {
   transition: all 0.3s;
 }
  .botonRespuesta:hover{
-  transform: scale(1.1);
+  transform: scale(1.05);
   background: var(---fondo-hover);
   color:var(---color-fondo-quiz);
  }
 #contador-aciertos {
   display: flex;
   justify-content: center;
-  color: var(---color-letras-botones);
+  color: var(---color-fondo-quiz);
   font-weight:  500;
   font-family: 'Montserrat', sans-serif;
 }
