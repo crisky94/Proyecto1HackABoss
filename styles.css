@@ -80,7 +80,7 @@ body {
 #contador-aciertos {
   display: flex;
   justify-content: center;
-  color: var(---color-fondo-quiz);
+  color: var(---color-h);
   font-weight:  500;
   font-family: 'Montserrat', sans-serif;
 }
